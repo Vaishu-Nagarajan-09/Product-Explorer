@@ -38,7 +38,7 @@ npm run dev
 
 Open the local URL shown in the terminal.
 
-## API
+## API:
 Product Data is fetched from the DummyJSON Products API.
 
 ## Live Demo:
