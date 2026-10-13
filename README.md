@@ -24,16 +24,16 @@ A responsive product browsing application built with React, Tailwind CSS, and Ax
 - Git installed
 ## Installation:
 
-## Clone the repository:
+## 1.Clone the repository:
 git clone https://github.com/Vaishu-Nagarajan-09/Product-Explorer
 
-## Navigate to the project:
+## 2.Navigate to the project:
 cd products
 
-## Install dependencies:
+## 3.Install dependencies:
 npm install
 
-## Start the development server:
+## 4.Start the development server:
 npm run dev
 
 Open the local URL shown in the terminal.
