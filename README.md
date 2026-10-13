@@ -46,3 +46,6 @@ Product Data is fetched from the DummyJSON Products API.
 
 ##  Author:
  Vaishnavi N N 
+
+
+If you find this project useful, feel free to explore the code and share your feedback!
