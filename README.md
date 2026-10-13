@@ -1,16 +1,48 @@
-# React + Vite
+## 🛍️ Product Explorer
+A responsive product browsing application built with React, Tailwind CSS, and Axios. It allows users to search products, filter by category, sort by price, and navigate through products using pagination.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features:
+- Product Fetching: Retrieve product data from the DummyJSON API using Axios.
+- Search Products: Search by product title or brand.
+- Category Filtering: Filter products by category.
+- Price Sorting: Sort products from low to high or high to low.
+- Pagination: Display 6 products per page with page numbers, Previous, and Next controls.
+- Clear Filters: Reset search, category, sorting, and pagination.
+- Loading and Error Handling: Display loading feedback and error messages.
+- Responsive Design: Adapt the interface to mobile, tablet, and desktop screens.
 
-Currently, two official plugins are available:
+ ## Technologies Used: 
+ - React
+ - Javascript
+ - Tailwind CSS
+ - Axios
+ - DummyJSON API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Getting Started:
+## Prerequisites:
+- Node.js and npm installed
+- Git installed
+## Installation:
 
-## React Compiler
+## Clone the repository:
+git clone https://github.com/Vaishu-Nagarajan-09/Product-Explorer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Navigate to the project:
+cd products
 
-## Expanding the ESLint configuration
+## Install dependencies:
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Start the development server:
+npm run dev
+
+Open the local URL shown in the terminal.
+
+## API
+Product Data is fetched from the DummyJSON Products API.
+
+## Live Demo:
+[Product Explorer](https://product-explorer-search.netlify.app/)
+
+##  Author:
+ Vaishnavi N N 
